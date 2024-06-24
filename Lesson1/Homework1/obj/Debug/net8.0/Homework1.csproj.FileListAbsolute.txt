@@ -1,0 +1,15 @@
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Homework1/obj/Debug/net8.0/Homework1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Homework1/obj/Debug/net8.0/Homework1.AssemblyInfoInputs.cache
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Homework1/obj/Debug/net8.0/Homework1.AssemblyInfo.cs
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Homework1/obj/Debug/net8.0/Homework1.csproj.CoreCompileInputs.cache
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Homework1/obj/Debug/net8.0/Homework1.sourcelink.json
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Homework1/bin/Debug/net8.0/Homework1
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Homework1/bin/Debug/net8.0/Homework1.deps.json
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Homework1/bin/Debug/net8.0/Homework1.runtimeconfig.json
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Homework1/bin/Debug/net8.0/Homework1.dll
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Homework1/bin/Debug/net8.0/Homework1.pdb
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Homework1/obj/Debug/net8.0/Homework1.dll
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Homework1/obj/Debug/net8.0/refint/Homework1.dll
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Homework1/obj/Debug/net8.0/Homework1.pdb
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Homework1/obj/Debug/net8.0/Homework1.genruntimeconfig.cache
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Homework1/obj/Debug/net8.0/ref/Homework1.dll
