@@ -1,0 +1,14 @@
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Task1/bin/Debug/net8.0/Task1
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Task1/bin/Debug/net8.0/Task1.deps.json
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Task1/bin/Debug/net8.0/Task1.dll
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Task1/bin/Debug/net8.0/Task1.pdb
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Task1/obj/Debug/net8.0/Task1.dll
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Task1/obj/Debug/net8.0/refint/Task1.dll
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Task1/obj/Debug/net8.0/Task1.pdb
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/Users/lilitmaralyan/Desktop/01_C#/Lesson1/Task1/obj/Debug/net8.0/ref/Task1.dll
